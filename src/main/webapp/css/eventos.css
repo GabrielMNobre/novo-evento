@@ -1,0 +1,26 @@
+a {
+    cursor: pointer;
+}
+
+#badgeTipos {
+    margin-top: 0;
+}
+
+#badgeTipos li {
+    list-style: none;
+    display: inline-block;
+    margin-right: 1rem;
+    padding: 0.5rem 0.7rem;
+    background-color: #26A69A;
+    color: white;
+    border-radius: 0.5rem;
+    opacity: .8;
+}
+
+#badgeTipos li button {
+    background-color: transparent;
+    border: none;
+    color: red;
+    font-weight: bolder;
+    cursor: pointer;
+}
